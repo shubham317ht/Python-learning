@@ -1,2 +1,7 @@
 {
+  "code-runner.runInTerminal": true,
+  "python.analysis.completeFunctionParens": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
 }
